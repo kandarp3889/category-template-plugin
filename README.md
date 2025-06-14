@@ -1,0 +1,1 @@
+# category-template-plugin
